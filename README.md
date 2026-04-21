@@ -6,6 +6,10 @@ This is the Connected Bradford Education GitHub page where you can find a summar
 
 # CB_FDM_Education
 
+> [!WARNING]  
+> THIS information is out of date and subject to review. (20/04/2026)
+> 
+
 Contains the scripts and documentation for Education
 It contains approximately 300,000 pupils. The dataset has been fully anonymised, but can link to other FDM's.
 
